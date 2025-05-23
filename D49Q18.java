@@ -4,6 +4,6 @@ public class D49Q18 {
         int capacity = 30;
         int cargo = 2;
 
-        System.out.println((double)total/ capacity*cargo);
+        System.out.println((double)total/ capacity* (cargo * 8));
     }
 }
